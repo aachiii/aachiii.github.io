@@ -7,7 +7,7 @@ CLASSES = {
 };
 
 const MODEL_PATH =
-    '/Users/chiqu/class2019fall/applied deeplearning/hw2/new_tfjs_2/model.json';
+    'model.json';
 
 const IMAGE_SIZE = 192;
 const TOPK_PREDICTIONS = 5;
